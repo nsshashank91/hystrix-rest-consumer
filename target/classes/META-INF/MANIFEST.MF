@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: rest-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shashank
+Implementation-Vendor-Id: org.mydemo
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/rest-consume
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
